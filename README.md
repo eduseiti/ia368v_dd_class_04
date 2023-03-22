@@ -13,3 +13,6 @@ Some setups (few-shot/zero-shot, with/without prompt) were experimented applying
 | LLaMA few shot<br />and prompt | 45.9 | 64.3 | 219, 352, 272, 132, 82 |
 | text-davinci-003<br />few sho and prompt | 15.0 | 48.7 | 219, 352, 272, 132, 82 |
 | Human | 78.4 | 88.0 | 219, 352, 272, 132, 82 |
+
+
+Veja [aqui](https://docs.google.com/presentation/d/1WS2yxQtxZMd_gsQ5zBgYNSqVzTqOsTy13N9r6EBYOK4/edit?usp=share_link) um conjunto de slides falando sobre o desenvolvimento deste exercício.
